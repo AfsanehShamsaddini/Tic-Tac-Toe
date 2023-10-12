@@ -3,7 +3,7 @@ You can play Tic Tac Toe with this program.
 
 If there is no one around play it on "One Player Mode"
 
-or play it on "Two Players Mode" with a friend. :)
+or play it on "Two Players Mode"
 
 # Features
 - One Player Mode
