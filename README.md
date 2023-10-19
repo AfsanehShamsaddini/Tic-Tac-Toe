@@ -12,7 +12,10 @@ or play it on "Two Players Mode"
 # Preview
 
 
-https://github.com/AfsanehShamsaddini/Tic-Tac-Toe/assets/107355829/20db149d-7589-46d1-8e3e-cfc71feb4c3d
+
+https://github.com/AfsanehShamsaddini/Tic-Tac-Toe/assets/107355829/9a10bad3-7055-4f10-ae7d-66a789ace80c
+
+
 
 
 ### Installation
